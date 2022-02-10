@@ -1,5 +1,5 @@
 # __Web Developement BootCamp__
-## __This is a The Complete Web Development BootCamp__
+## __This is a Complete Web Development BootCamp__
 _learn basics of web developement such us :_
 * HTML
 * CSS
