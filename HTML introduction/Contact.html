@@ -40,7 +40,12 @@
         Feel Free to try them all
     -->
     <h3>Contact Form</h3>
-    <form action="" method="post">
+    <!-- there's a lot of actions, here we use mailto action
+         here job is taking the inputs from the user and open email default app
+         and write the user inputs inside the mail, Try it, cool doesn't it !
+         the enctype is used for descripe how the input's gonna send, we use plain text
+    -->
+    <form action="mailto:zakaria.rhiba@usmba.ac.ma" method="post" enctype="text/plain">
         <div>
             <label for="Name">Enter Name : </label>
             <input type="text" name="Name">
