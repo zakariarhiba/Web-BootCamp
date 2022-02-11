@@ -15,7 +15,7 @@ _learn basics of web developement such us :_
 * and more...
 ___
 
-### __The best way to learn Web developement__
+### **The best way to learn Web developement**
 
 For me the best way that's worked and when I started doing it that's help me to see some progress and I'm be able to develop some stuff from zero by the following :
 
@@ -25,7 +25,7 @@ For me the best way that's worked and when I started doing it that's help me to 
 
  * Start building projects, That's the goal of writing this documentation, It's give you a amazing projects that's you can do with basic understanding that's makes you learn more and be able to build projects on your own
 
-#### __References that I use to write this :__
+#### **References that I use to write this :**
 
 * [DevDocs documentation](https://devdocs.io/)
 * [MDN Documentation](https://developer.mozilla.org/)
