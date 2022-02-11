@@ -1,7 +1,34 @@
+
+
+/* visit devDocs or MDN documentary for more proioritys */
+/* we can use selectors by html tag as we did here */
 hr{
-    border-color: red;
+    border-color: #E9DAC1;
     border-width: 5px;
     width: 400px;
     border-style: none;
     border-top-style: dotted;
+}
+
+h1,h3{
+    color: #54BAB9;
+}
+
+/* using class as selector here
+    first you have to specify the class in
+    the html element as we did for the my image element
+*/
+/* to use class as selector it must start with a point '.' */
+.myImage{
+    background-color: aliceblue;
+}
+
+
+/* using id as selector here
+    first you have to specify the id in
+    the html element as we did for the heading h1 
+*/
+/* to use class as selector it must start with a point '#' */
+#heading {
+    color: #F94892;
 }
