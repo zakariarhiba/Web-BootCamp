@@ -89,3 +89,52 @@ The class attribute its used for a groups of items that you wants them to behave
  <!-- This is an exemple of how to use class -->
  <h1 class="persons">RHIBA Zakaria</h1>
 ```
+
+### **CSS Selectors Syntax**
+
+Here I'm written the tree different syntax of how to use selecters :
+
+* HTML Tags:
+
+```CSS
+h1{
+    color: #54BAB9;
+}
+```
+
+* Id attribute:
+
+```CSS
+#heading {
+    color: #F94892;
+}
+```
+
+* CLass attribute:
+
+```CSS
+.heading{
+    background-color: #F94892;
+}
+```
+
+#### Sudo Class 
+
+Sudo Class it's descripe the stat of the elements, for exemple we use if we hover an image we change it's background color : 
+
+```CSS
+img:hover {
+    background-color: gold;
+}
+```
+
+___
+
+Congrats ! Now we know all what we need to start create an awesome profissonal page for twenty's instead of ninety's 
+
+___
+
+For Personal Coashing or if you have any Question or Collaborate feel free to visit my portfolio and contact me 
+
+> you can visit my protfolio over here :
+[Rhiba Zakaria porfolio](https://zak-rhiba.codes)
