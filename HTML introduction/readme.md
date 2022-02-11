@@ -12,6 +12,8 @@ First we begin our journey by introduce some basics html tags such as heading an
 
 * [Using Tables for layout](FirstPage2.html)
 
+* [Form elements](Contact.html)
+
 * wait for more soon...
 
 > you can visit my protfolio over here :
