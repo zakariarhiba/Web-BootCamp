@@ -14,7 +14,13 @@ First we begin our journey by introduce some basics html tags such as heading an
 
 * [Form elements](Contact.html)
 
-* wait for more soon...
+### Now you know all what you need to start building wonderful project, you're challenge now is to recreate your own resume, be creative and feel free to use documenation it's your angel !
+
+#### Here you'll find my own version if you want to get inspire: 
+
+* [Final Project](index.html)
+
+___
 
 > you can visit my protfolio over here :
 [Rhiba Zakaria porfolio](https://zak-rhiba.codes)
