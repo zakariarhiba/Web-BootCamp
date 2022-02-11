@@ -37,8 +37,8 @@ In this exemple we add a background color to the body element, by that this back
 ```
 ### CSS Syntax :
 ```CSS
-element-tag {
-      styling-attributes;
+selector {
+      proprety : value;
     }    
 ```
 
@@ -61,4 +61,31 @@ element-tag {
 </html>
 ```
 
+### **First CSS Challenge**
 
+*Now we know all what we need to start our journey with css, and remember documentation its our lovely friend who's gonna be always for help*
+
+as first challenge I want you to apply the same style of all the pages for our personal page and change the headings colors for exemple.
+
+> The solution its availble on the project itself, but practice it before you see it.
+
+### **Selectors**
+
+In HTML we have two selectors 
+
+* ID
+* CLASS
+
+The id  attribute its used for a single item, if you want to apply a style or use it in js, we'll discuss that later
+
+```HTML
+ <!-- This is an exemple of how to use id -->
+ <h1 id="heading">RHIBA Zakaria</h1>
+```
+
+The class attribute its used for a groups of items that you wants them to behave with same styles or actions
+
+```HTML
+ <!-- This is an exemple of how to use class -->
+ <h1 class="persons">RHIBA Zakaria</h1>
+```
