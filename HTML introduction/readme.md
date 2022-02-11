@@ -6,7 +6,9 @@ First we begin our journey by introduce some basics html tags such as heading an
 
 * [Html Introduction](html_Introduction.html)
 
-* [First Page](FirstPage.html)
+* [Old Personal Website exemple](FirstPage.html)
+
+* [More HTML Elements](FirstPage1.html)
 
 * wait for more soon...
 
