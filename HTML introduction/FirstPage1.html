@@ -11,15 +11,12 @@
     <!-- src is the source of the imaga it can be in the same folder where the page is stored or it can be in a server as we did, I'm using an image that is in my server just by copy paste the url of the image -->
     <!-- alt is the description of what the image is, its help the search engine such as google if someone search for the same keywords that you gonna use -->
     <img src="https://zak-rhiba.codes/uploads/me.jpg" alt="rhiba zakaria image" >
-    <!-- my name as a title -->
+
+
     <h1>RHIBA Zakaria</h1>
     <hr size="5" noshade>
-    <!-- Description part who am i -->
-    <!-- the em tag is for italic text -->
-    <!-- the strong tag is for bold text -->
     <p><em><strong> Web Developer</strong>, self taught</em></p>
     <p><em><strong> Embedded Systems</strong> Student</em></p>
-    <!-- the spacer element is no longer supported cause we can do the same thing easily using css which we gonna discover later -->
     <spacer type="horizantel" size="1"></spacer>
     <p><em>at High School of technology</em></p>
     <spacer type="horizantel" size="1"></spacer>
@@ -31,19 +28,45 @@
     <p>The spirit of study and discover all that what have a relationship with electronics, computer and internet since my childhood. I started by learning the concepts of operating systems (DOS, UNIX) & how to Code the machine via c, python and deepthly with assembly, binary programming languages, without forget networking structures from local to internet networks The thing that drove me to chose the higher school of technology to study embedded systems as my first beginning to professionally after I passed my baccalaureate in science and technology in electricity.</p>
 
     <hr size="3" noshade>
-    <!-- in this part is where we can add like contact links-->
-    <!-- a tag its stands for write an exeternel link we can access from our first page -->
     <p>Link to my Portfolio : <a href="https://zak-rhiba.codes">RHIBA Zakaria Portfolio</a></p>
 
     <hr size="3" noshade>
+    
 
-    <!-- Education parts where we gonna list what we already study and where for exemple -->
-    <!-- to do that we gonna use a new tag which is unorder list ul-->
-    <!--
-        the li is stands for list item 
-        the li element is have to used inside the ul list 
-        we can also write a sublist inside a liste 
+    <!-- Html Table elements 
+        we gonna use table to write our work experience 
+        tr tag is use for define the rows of the table 
+        each tr have to contains a td tag
+        each td tag represent a colomn od the rows
+        by default the table has no border and no style 
     -->
+    <h3>experiences</h3>
+    <!--
+        the table element has also a head and body such as the html element
+        thead is contains the tr that's in top bold and in the centre
+        tbody is contains the data that's the table has
+        there's also tfoot but most of the time we'll need just head and body
+        we'll learn more about border and styling in css
+    -->
+    <table border>
+        <thead>
+            <th>Data</th>
+            <th>Job</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2019-2020</td>
+                <td>Works at library</td>
+            </tr>
+            <tr>
+                <td>2020</td>
+                <td>Freelance Web Developer</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+   
     <h3>Education</h3>
     <ul>
         <li>Embedded Systems at High superior School of technology, FES, Morocco <strong>2020-2021</strong>
@@ -65,6 +88,7 @@
         </li>
         <li>Baccalaureate in Science and electricity at jaber bno hayan High School <strong>2017-2019</strong></li>
     </ul>
+
 
     <hr size="3" noshade>
     <!-- as we descover before links are used for redirect to adder location it may be externe or interne the server
