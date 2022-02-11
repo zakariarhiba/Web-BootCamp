@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Welcome to Web Developement Road Map by RHIBA Zakaria
 
-You can use the [editor on GitHub](https://github.com/zakariarhiba/Web-BootCamp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+___
+## Introducion
+___ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+First We start our journey by learning the basics of HTML elements and Tags 
 
-### Markdown
+_learn basics of web developement such us :_
+* HTML
+* CSS
+* JavaScript
+* BootStrap
+* and more...
+___
+### __The best way to learn Web developement__
+For me the best way that's worked and when I started doing it that's help me to see some progress and I'm be able to develop some stuff from zero by the following :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* First I recommend to start with the basics and the fundamentals of everything that's this Documentation provide
 
-```markdown
-Syntax highlighted code block
+* Don't try to remembre everything, just focus on understand the concepts and how to use the technologies 
 
-# Header 1
-## Header 2
-### Header 3
+ * Start building projects, That's the goal of writing this documentation, It's give you a amazing projects that's you can do with basic understanding that's makes you learn more and be able to build projects on your own
 
-- Bulleted
-- List
+#### __References that I use to write this :__
+* [DevDocs documentation](https://devdocs.io/)
+* [MDN Documentation](https://developer.mozilla.org/)
+* [W3school](https://www.w3schools.com/)
+* [The Complete Web Development BootCamp By Angela Yu](https://www.youtube.com/playlist?list=PLmv0h_u-BMKtON5uMdSz4_4zwnd2gyXNq)
 
-1. Numbered
-2. List
+___
 
-**Bold** and _Italic_ and `Code` text
+## HTML Section
 
-[Link](url) and ![Image](src)
-```
+___
+First we begin our journey by introduce some basics html tags such as heading and paragraph, also we see the difference between end tags and self end tags
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### To follow this Documentation is order as follow :
 
-### Jekyll Themes
+* [Html Introduction](html_Introduction.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zakariarhiba/Web-BootCamp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [Old Personal Website exemple](FirstPage.html)
 
-### Support or Contact
+* [More HTML Elements](FirstPage1.html)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Using Tables for layout](FirstPage2.html)
+
+* [Form elements](Contact.html)
+
+### Now you know all what you need to start building wonderful project, you're challenge now is to recreate your own resume, be creative and feel free to use documenation it's your angel !
+
+#### Here you'll find my own version if you want to get inspire: 
+
+* [Final Project](index.html)
+
+___
+## CSS Section 
+___
+
+* we're working on  it...
+
+___
+> you can visit my protfolio over here :
+[Rhiba Zakaria porfolio](https://zak-rhiba.codes)
+___
