@@ -10,6 +10,8 @@ First we begin our journey by introduce some basics html tags such as heading an
 
 * [More HTML Elements](FirstPage1.html)
 
+* [Using Tables for layout](FirstPage2.html)
+
 * wait for more soon...
 
 > you can visit my protfolio over here :
