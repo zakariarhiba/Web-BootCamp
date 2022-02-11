@@ -1,5 +1,5 @@
-# __Web Developement BootCamp__
-## __This is a Complete Web Development BootCamp__
+# __Web Developement Road Map__
+## __This is a Complete Web Development Road Map__
 _learn basics of web developement such us :_
 * HTML
 * CSS
@@ -16,11 +16,13 @@ For me the best way that's worked and when I started doing it that's help me to 
 
  * Start building projects, That's the goal of writing this documentation, It's give you a amazing projects that's you can do with basic understanding that's makes you learn more and be able to build projects on your own
 
-#### __References : __
-* [dev docs documentation](https://devdocs.io/)
-* [Mdn Documentation](https://developer.mozilla.org/)
+#### __References :__
+* [DevDocs documentation](https://devdocs.io/)
+* [MDN Documentation](https://developer.mozilla.org/)
 * [W3school](https://www.w3schools.com/)
 * [The Complete Web Development BootCamp By Angela Yu](https://www.youtube.com/playlist?list=PLmv0h_u-BMKtON5uMdSz4_4zwnd2gyXNq)
+
+___
 
 > you can visit my protfolio over here :
 [Rhiba Zakaria porfolio](https://zak-rhiba.codes)
