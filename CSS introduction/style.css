@@ -14,7 +14,7 @@ h1,h3{
     color: #54BAB9;
 }
 
-/* here we're using an sudo class  */
+/* here we're using an Pseudo-classe */
 img:hover {
     background-color: gold;
 }
