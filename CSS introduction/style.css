@@ -14,6 +14,11 @@ h1,h3{
     color: #54BAB9;
 }
 
+/* here we're using an sudo class  */
+img:hover {
+    background-color: gold;
+}
+
 /* using class as selector here
     first you have to specify the class in
     the html element as we did for the my image element
