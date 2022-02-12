@@ -118,9 +118,9 @@ h1{
 }
 ```
 
-#### Sudo Class 
+#### Pseudo-classes 
 
-Sudo Class it's descripe the stat of the elements, for exemple we use if we hover an image we change it's background color : 
+Pseudo-classes it's descripe the stat of the elements, for exemple we use if we hover an image we change it's background color : 
 
 ```CSS
 img:hover {
